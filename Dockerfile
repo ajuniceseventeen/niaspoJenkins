@@ -1,4 +1,4 @@
 FROM maven
 COPY . .
-WORKDIR ./labaMaven
+WORKDIR ./LabaMaven
 CMD ["mvn", "spring-boot:run"]
