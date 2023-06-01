@@ -1,1 +1,1 @@
-FROM drupal
+FROM couchbase
